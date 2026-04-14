@@ -1,0 +1,19 @@
+# Keil MDK-ARM build output directory
+MDK-ARM/chess/
+
+# Common embedded build artifacts
+*.axf
+*.hex
+*.map
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.iex
+*.lst
+
+# Build/log/temp artifacts
+*.build_log.htm
+*.bak
+*.Bak

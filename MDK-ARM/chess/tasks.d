@@ -1,9 +1,0 @@
-chess\tasks.o: ..\Core\Src\tasks.c
-chess\tasks.o: ..\Core\Inc\FreeRTOS_Kernel.h
-chess\tasks.o: ..\Core\Inc\FreeRTOSConfig.h
-chess\tasks.o: ..\Core\Inc\projdefs.h
-chess\tasks.o: ..\Core\Inc\portable.h
-chess\tasks.o: D:\STM32Softwares\Keil5.24\ARM\ARMCC\Bin\..\include\stdlib.h
-chess\tasks.o: ..\Core\Inc\portmacro.h
-chess\tasks.o: D:\STM32Softwares\Keil5.24\ARM\ARMCC\Bin\..\include\stdint.h
-chess\tasks.o: D:\STM32Softwares\Keil5.24\ARM\ARMCC\Bin\..\include\string.h
